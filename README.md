@@ -67,5 +67,12 @@
   <img src="https://streak-stats.demolab.com?user=saikumar3035&theme=tokyonight&hide_border=false&fire=DD2727&currStreakLabel=DD2727&ring=DD2727" width="100%" alt="GitHub Streak" />
 
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI+and+Data;Building+with+Python+%26+ML;Learning+Frontend+Dev+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI+and+Data;Building+with+Python+%26+ML;Learning+⚡" />
 </div>
+
+
+### ✍️ Final Note
+
+I'm always experimenting, always learning. If you’ve got an idea, a collab, or just want to talk data—[drop me a message](mailto:saikumarpatel35@gmail.com). Let’s build cool things.
+
+---
