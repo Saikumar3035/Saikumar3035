@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=saikumar3035&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
 <div align="center">
   <a href="mailto:saikumarpatel35@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -76,3 +77,5 @@
 I'm always experimenting, always learning. If you’ve got an idea, a collab, or just want to talk data—[drop me a message](mailto:saikumarpatel35@gmail.com). Let’s build cool things.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saikumar3035)](https://streak-stats.demolab.com)
+
