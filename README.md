@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/u/mudamsaikumar/">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.kaggle.com/sai302">
+  <a href="https://www.kaggle.com/saikumarmudam">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </div>
@@ -29,7 +29,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech in Data Science (Graduating 2026) — KU College of Engineering and Technology  
-- 🤖 Currently interning at **VISWAM.AI** – working on Telugu LLMs  
+- 🤖 Currently interning at **Infosys**   
 - 🌐 Learning Full Stack Development through **Infosys-backed ETHNUS Java + MERN** training  
 - 📊 Passionate about AI, ML, NLP, and using data to solve real-world problems  
 - ⚡ Fun fact: I love explaining complex concepts in simple ways (to humans and machines)
@@ -63,9 +63,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saikumar3035&show_icons=true&theme=tokyonight&count_private=true" width="100%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar3035&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
+
   <img src="https://streak-stats.demolab.com?user=saikumar3035&theme=tokyonight&hide_border=false&fire=DD2727&currStreakLabel=DD2727&ring=DD2727" width="100%" alt="GitHub Streak" />
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumar3035&theme=tokyo-night&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" alt="Activity Graph" />
+</div>
 
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Exploring+AI+and+Data;Building+with+Python+%26+ML;Learning+⚡" />
